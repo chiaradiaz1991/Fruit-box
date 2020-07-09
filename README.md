@@ -1,4 +1,4 @@
-# Bird App with MobX
+# Fruit box app with MobX
 
 ## Available Scripts
 
